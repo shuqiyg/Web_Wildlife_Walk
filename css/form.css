@@ -1,0 +1,17 @@
+/**
+ * Student Name: Shuqi Yang
+   Student Number: 132162207
+   Email: syang136@myseneca.ca
+   Static Web Hosting:  https://wweerrbb.github.io/www_v3.0/ 
+   
+   Styles for the add-observation.html page 
+ */
+form div {
+  display: flex;
+}
+
+.required,
+#errorLong,
+#errorLat {
+  color: red;
+}
